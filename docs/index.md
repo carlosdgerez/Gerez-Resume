@@ -19,7 +19,7 @@ Skillfull Data Science student.
 `2025-2027`
 __BYU Idaho__, Boise, ID
 
-- Full academic scholarship with 4.0 GPA
+- In Prpgress academic scholarship with 3.9 GPA
 
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
