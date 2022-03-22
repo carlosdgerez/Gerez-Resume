@@ -16,7 +16,7 @@ Skillfull Data Science student.
 
 ## Education
 
-`Expected 2023`
+Expected 2023
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - In Progress academic scholarship with 3.9 Major GPA
