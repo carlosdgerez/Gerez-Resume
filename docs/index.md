@@ -35,41 +35,41 @@ __Programming Languages__
 - PHP
 - Object Oriented Programming
 
-### Database
-    - SQL
-    - MySQL
+__Database__
+- SQL
+- MySQL
 
-### Operative Systems
+__Operative Systems__
  
-    - Linux
-    - Windows (Active Directory Management, 365)
+- Linux
+- Windows (Active Directory Management, 365)
 
-### Virtual Machines
+__Virtual Machines__
 
-     - VMware
-     - Oracle VirtualBox
-     - Microsoft Hyper-V
+- VMware
+- Oracle VirtualBox
+- Microsoft Hyper-V
 
-### Version control
+__Version control__
      
-     - GitHub
+- GitHub
 
-### Others
+__Others__
 
-     - Google Firebase
-     - Troubleshooting configuration, and design Networks
-     - Switching setup and configuration
-     - Computer Hardware configuration and maintenance
+- Google Firebase
+- Troubleshooting configuration, and design Networks
+- Switching setup and configuration
+- Computer Hardware configuration and maintenance
 
-### Certifications
+## Certifications
 
-     - Degree: Certificate  Computer Programmer BYU Idaho (July 2020)
-     - Degree: Certificate Computer Support BYU Idaho (Aug 2021)
-     - Certified PC Pro TestOut ( December 2020)
-     - Certified Network Pro TestOut (December 2020)
-     - Certified Switching Pro (July 2021)
+- Degree: Certificate  Computer Programmer BYU Idaho (July 2020)
+- Degree: Certificate Computer Support BYU Idaho (Aug 2021)
+- Certified PC Pro TestOut ( December 2020)
+- Certified Network Pro TestOut (December 2020)
+- Certified Switching Pro (July 2021)
 
-### Internships   
+## Internships   
 
 `August 2022 - December 2022`
 __Looking For__, Longyearbyen, Norway
