@@ -28,13 +28,13 @@ __Brigham Young University - Idaho__, Rexburg, ID
   
 ### Programming Languages
 
-    - Python
-    - Java
-    - JavaScript
-    - HTML
-    - CSS
-    - PHP
-    - Object Oriented Programming
+__Python__
+__Java__
+__JavaScript__
+__HTML__
+__CSS__
+__PHP__
+__Object Oriented Programming__
 
 ### Database
     - SQL
