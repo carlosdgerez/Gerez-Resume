@@ -62,7 +62,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
      - Switching setup and configuration
      - Computer Hardware configuration and maintenance
 
-## Certifications
+### Certifications
 
      - Degree: Certificate  Computer Programmer BYU Idaho (July 2020)
      - Degree: Certificate Computer Support BYU Idaho (Aug 2021)
