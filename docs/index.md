@@ -25,7 +25,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 
 ## Skills
-  
 __Programming Languages__
 
 - Python
