@@ -26,15 +26,15 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Skills
   
-### Programming Languages
+__Programming Languages__
 
-__Python__
-__Java__
-__JavaScript__
-__HTML__
-__CSS__
-__PHP__
-__Object Oriented Programming__
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+- PHP
+- Object Oriented Programming
 
 ### Database
     - SQL
