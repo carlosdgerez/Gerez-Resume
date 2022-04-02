@@ -3,24 +3,27 @@ layout: cv
 title: Carlos Gerez's CV
 ---
 # Carlos Gerez
-Skillfull Data Science student.
+Skillful Data Science enthusiastic learner.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="mailto:datascience@byui.edu">datascience@byui.edu</a>
+| <a href="https://byuidatascience.github.io/">Data Science Program</a>
+| <a href="https://www.linkedin.com/in/carlos-gerez-solid-state928b98a4/">LinkedIn</a>
+| <a href="https://github.com/carlosdgerez?tab=repositories">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+## Who I am?
+I am  a avid learner that have a passion for technology and solve problems.
+Love to learn something new each day, and the satisfaction of teamwork.
+"No one can whistle a symphony. It takes a whole orchestra to play it." – H.E. Luccock
 
 ## Education
 
-`Expected 2023`
+
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - In Progress academic scholarship with 3.9 Major GPA
-
+- Expected completion spring 2023
 
 
 
@@ -60,6 +63,9 @@ __Others__
 - Troubleshooting configuration, and design Networks
 - Switching setup and configuration
 - Computer Hardware configuration and maintenance
+- English, Norwegian fluent.
+- Spanish mother language
+- French, Italian skilled.
 
 ## Certifications
 
@@ -80,8 +86,8 @@ __Looking For__, Longyearbyen, Norway
 
 
 
-<!-- ### Footer
 
-Last updated: Mars 2022 -->
+
+Last updated: Mars 2022 
 
 
