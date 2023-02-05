@@ -23,7 +23,7 @@ Love to learn something new each day, and the satisfaction of teamwork.
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - In Progress academic scholarship with 3.9 Major GPA
-- Expected completion spring 2023
+- Expected completion spring 2024
 
 
 
