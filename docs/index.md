@@ -13,7 +13,7 @@ Skillful Data Science enthusiastic learner.
 </div>
 
 ## Who I am?
-I am  a avid learner that have a passion for technology and solve problems.
+I am  an avid learner that have a passion for technology and solving problems.
 Love to learn something new each day, and the satisfaction of teamwork.  
 
 >> **"No one can whistle a symphony. It takes a whole orchestra to play it." – H.E. Luccock**
@@ -68,7 +68,7 @@ __Others__
 - TensorFlow
 - Scikit-learn
 - Keras
-- Analysis and Optimizacion of models
+- Analysis and Optimization of models
 - Data Visualization with ggplot2, lubridate,
   tidyquants, dygraphs, timetk, leaflet, Altair, Seaborn.
 - pandas
