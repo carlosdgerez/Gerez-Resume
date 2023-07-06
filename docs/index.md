@@ -39,7 +39,7 @@ __Programming Languages__
 - PHP
 - Object Oriented Programming
 - JavaScript
- 
+- Alguna otra cosa
 
 __Database__
 - SQL
