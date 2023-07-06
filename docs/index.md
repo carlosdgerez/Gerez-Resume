@@ -22,8 +22,8 @@ Love to learn something new each day, and the satisfaction of teamwork.
 
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- In Progress academic scholarship with 3.9 Major GPA
-- Expected completion spring 2024
+- In Progress academic scholarship with 3.94 Major GPA
+- Expected completion spring 2024 Bachelor of Science in Applied Technology
 
 
 
@@ -38,8 +38,8 @@ __Programming Languages__
 - CSS
 - PHP
 - Object Oriented Programming
-- JavaScript
-- Alguna otra cosa
+
+
 
 __Database__
 - SQL
@@ -62,11 +62,26 @@ __Version control__
 
 __Others__
 
+- Neural Networks
+- Deep Learning
+- TensorFlow
+- Scikit-learn
+- Keras
+- Analysis and Optimizacion of models
+- Data Visualization with ggplot2, lubridate,
+  tidyquants, dygraphs, timetk, leaflet, Altair, Seaborn.
+- pandas
+- Numpy
+- Google Colab
 - Google Firebase
 - Troubleshooting configuration, and design Networks
 - Switching setup and configuration
 - Computer Hardware configuration and maintenance
-- English, Norwegian fluent.
+
+__Languages__
+
+- English fluent
+- Norwegian fluent
 - Spanish mother language
 - French, Italian skilled.
 
@@ -78,19 +93,20 @@ __Others__
 - Certified Network Pro TestOut (December 2020)
 - Certified Switching Pro (July 2021)
 
-## Internships   
-
-`August 2022 - December 2022`
-__Looking For__, Longyearbyen, Norway
+ 
 
 
-
+## Resident
+Longyearbyen, Norway
 
 
 
 
 
 
-Last updated: Mars 2022 
+
+
+
+Last updated: July 2023 
 
 
