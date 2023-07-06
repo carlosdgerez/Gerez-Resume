@@ -15,8 +15,8 @@ Skillful Data Science enthusiastic learner.
 ## Who I am?
 I am  a avid learner that have a passion for technology and solve problems.
 Love to learn something new each day, and the satisfaction of teamwork.  
-</br>
-"No one can whistle a symphony. It takes a whole orchestra to play it." – H.E. Luccock
+
+- "No one can whistle a symphony. It takes a whole orchestra to play it." – H.E. Luccock
 
 ## Education
 
