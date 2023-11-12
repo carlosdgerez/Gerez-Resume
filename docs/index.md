@@ -6,7 +6,7 @@ title: Carlos Gerez's CV
 Skillful Data Science enthusiastic learner.
 
 <div id="webaddress">
-<a href="mailto:datascience@byui.edu">datascience@byui.edu</a>
+<a href="mailto:ger19005@byui.edu">ger19005@byui.edu</a>
 | <a href="https://byuidatascience.github.io/">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/carlos-gerez-solid-state928b98a4/">LinkedIn</a>
 | <a href="https://github.com/carlosdgerez?tab=repositories">GitHub</a>
