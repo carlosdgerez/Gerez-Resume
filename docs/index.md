@@ -23,8 +23,9 @@ Love to learn something new each day, and the satisfaction of teamwork.
 
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- In Progress academic scholarship with 3.94 Major GPA
-- Expected completion spring 2024 Bachelor of Science in Applied Technology
+-  Bachelor of Science in Applied Technology (July 2024)
+-  3.95 GPA
+
 
 
 
@@ -93,6 +94,7 @@ __Languages__
 - Certified PC Pro TestOut ( December 2020)
 - Certified Network Pro TestOut (December 2020)
 - Certified Switching Pro (July 2021)
+- Certified CompTIA Security+ SYO-701 (July 2024)
 
  
 
