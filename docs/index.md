@@ -110,6 +110,6 @@ Longyearbyen, Norway
 
 
 
-Last updated: July 2023 
+Last updated: July 2024 
 
 
