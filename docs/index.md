@@ -24,6 +24,7 @@ Love to learn something new each day, and the satisfaction of teamwork.
 __Brigham Young University - Idaho__, Rexburg, ID
 
 -  Bachelor of Science in Applied Technology (July 2024)
+-  Magna Cum Laude.
 -  3.95 GPA
 
 
