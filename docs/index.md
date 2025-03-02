@@ -96,7 +96,7 @@ __Other Tools__
 - [Certified Switching Pro (July 2021)](https://carlosdgerez.github.io/Gerez-Resume/CertificateSwitchingPro.pdf)
   
 `2024`
-- Degree: [Certificate System Administration](https://carlosdgerez.github.io/Gerez-Resume/SystemAdministratorCertificate.pdf))   
+- Degree: [Certificate System Administration](https://carlosdgerez.github.io/Gerez-Resume/SystemAdministratorCertificate.pdf)  
 -  [Certified CompTIA Security+ SYO-701 (Juli 2024)](https://carlosdgerez.github.io/Gerez-Resume/CompTIASecurity+certificate.pdf)
 -  [Transcript](https://carlosdgerez.github.io/Gerez-Resume/CumLaudeTranscript.pdf)
   
