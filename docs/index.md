@@ -6,7 +6,7 @@ title: Carlos Gerez's CV
 Skillful Data Science enthusiastic learner.
 
 <div id="webaddress">
-<a href="mailto:ger19005@byui.edu">ger19005@byui.edu</a>
+<a href="mailto:ger19005@byui.edu">E-mail</a>
 | <a href="https://byuidatascience.github.io/">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/carlos-gerez-solid-state928b98a4/">LinkedIn</a>
 | <a href="https://github.com/carlosdgerez?tab=repositories">GitHub</a>
@@ -87,6 +87,42 @@ __Languages__
 - Norwegian fluent
 - Spanish mother language
 - French, Italian skilled.
+## TECHNICAL SKILLS
+### **Data Science**
+- Data Science Programming: Python, Pandas, Scikit, SQL, Plotly  
+- Data Wrangling og Visualisations:  R, ggplot2, lubridate, tidyquants, dygraphs, timetk, leaflet, Altair, Seaborn  
+- Machine Learning, Neural Networks and  Deep learning: TensorFlow, Scikit-learn, Keras, Numpy
+- Model Analysis and Performance Optimization:  Google Colab  
+
+### **Programming Languages**
+- Python, R, Java, JavaScript, HTML, CSS, PHP, Ruby, Yaml 
+- PL/SQL, PL/pgSQL
+- Ruby, Puppet
+
+### **Paradigms**
+- Object-Oriented Programming (OOP)
+- Procedural Programming
+- Functional Programming   
+
+### **Databases**
+- SQL, MySQL, PostgreSQL, MariaDB  
+
+### **Operating Systems**
+- Linux, Windows (Active directory Management, 365, Azure)  
+
+### **Virtualization / Infrastructure as code**
+- VMware, Oracle VirtualBox, Microsoft Hyper-V, 
+- Vagrant, Kubernetes, Docker
+- Ansible, Puppet
+
+### **Version Control**
+- GitHub, Git  
+
+### **Other Tools**
+- Kali Linux penetration tools, Metasploit, Google Firebase  
+- Troubleshooting configuration, and design Networks  
+- Switching setup and configuration 
+- Computer Hardware configuration and maintenance 
 
 ## Certifications
 
