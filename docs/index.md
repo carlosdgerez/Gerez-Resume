@@ -87,44 +87,44 @@ __Languages__
 - Norwegian fluent
 - Spanish mother language
 - French, Italian skilled.
-## TECHNICAL SKILLS
-### **Data Science**
+
+__Data Science__
 - Data Science Programming: Python, Pandas, Scikit, SQL, Plotly  
 - Data Wrangling og Visualisations:  R, ggplot2, lubridate, tidyquants, dygraphs, timetk, leaflet, Altair, Seaborn  
 - Machine Learning, Neural Networks and  Deep learning: TensorFlow, Scikit-learn, Keras, Numpy
 - Model Analysis and Performance Optimization:  Google Colab  
 
-### **Programming Languages**
+__Programming Languages__
 - Python, R, Java, JavaScript, HTML, CSS, PHP, Ruby, Yaml 
 - PL/SQL, PL/pgSQL
 - Ruby, Puppet
 
-### **Paradigms**
+__Paradigms__
 - Object-Oriented Programming (OOP)
 - Procedural Programming
 - Functional Programming   
 
-### **Databases**
+__Databases__
 - SQL, MySQL, PostgreSQL, MariaDB  
 
-### **Operating Systems**
+__Operating Systems__
 - Linux, Windows (Active directory Management, 365, Azure)  
 
-### **Virtualization / Infrastructure as code**
+__Virtualization / Infrastructure as code__
 - VMware, Oracle VirtualBox, Microsoft Hyper-V, 
 - Vagrant, Kubernetes, Docker
 - Ansible, Puppet
 
-### **Version Control**
+__Version Control__
 - GitHub, Git  
 
-### **Other Tools**
+__Other Tools__
 - Kali Linux penetration tools, Metasploit, Google Firebase  
 - Troubleshooting configuration, and design Networks  
 - Switching setup and configuration 
 - Computer Hardware configuration and maintenance 
 
-## Certifications
+__Certifications__
 
 - Degree: Certificate  Computer Programmer BYU Idaho (July 2020)
 - Degree: Certificate Computer Support BYU Idaho (Aug 2021)
