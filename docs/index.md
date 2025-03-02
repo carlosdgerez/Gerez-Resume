@@ -76,7 +76,7 @@ __Other Tools__
 - Switching setup and configuration 
 - Computer Hardware configuration and maintenance
 
-##Languages
+## Languages
 
 - English fluent
 - Norwegian fluent
@@ -93,20 +93,24 @@ __Other Tools__
 - `2024` Degree: [Certificate System Administration](https://www.michaelsutter.com/ediploma?fn=diplomastatuscheck&key=02000000c9ec19dd39add2463e2c60f29def1f294e322848d3b02b480bc2a95c975569340a954596580309649867a58cfbcca91c11ddabfd0c8fd995a8770e34882aa2c2)   
 
 - `2024` Certified CompTIA Security+ SYO-701 (Juli 2024)
+  
+## REFERENCES
+__Josh Wickern__ 
+– Cibersecurity Professor, BYU Idaho  
+ __Sted:__ Bringham Young University Idaho  
+ __Telefon:__ 801-332-0836  
+  [wickernj@byui.edu](mailto:wickernj@byui.edu)  
 
+__Malu Avila__ 
+– Doctor of Philosophy (PhD) Biology, General from The University Centre In Svalbard  
+__Sted:__ Nature Metrics DNA-based Monitoring  
+__Telefon:__ 0044 7531833272  
+  [mlavilaj@gmail.com](mailto:mlavilaj@gmail.com) 
  
 
 
 ## Resident
 Longyearbyen, Norway
-
-
-
-
-
-
-
-
 
 Last updated: Mars 2025
 
