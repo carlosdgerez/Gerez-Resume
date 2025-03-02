@@ -87,7 +87,7 @@ __Other Tools__
 ## Certifications
 
  `2020`  
--  Degree: [Certificate Computer Programmer](../Gerez-Resume/Docs/ComputerProgrammingCertificate.pdf)
+-  Degree: [Certificate Computer Programmer](../Docs/ComputerProgrammingCertificate.pdf)
 - [Certified PC Pro TestOut ( December 2020)](../CertificatePCPro.pdf)
 - [Certified Network Pro TestOut (December 2020)](../CertificateNetwork.pdf)
 
