@@ -88,12 +88,12 @@ __Other Tools__
 
  `2020`  
 -  Degree: [Certificate Computer Programmer](https://carlosdgerez.github.io/Gerez-Resume/ComputerProgrammingCertificate.pdf)
-- [Certified PC Pro TestOut ( December 2020)](../CertificatePCPro.pdf)
-- [Certified Network Pro TestOut (December 2020)](../CertificateNetwork.pdf)
+- [Certified PC Pro TestOut ( December 2020)](https://carlosdgerez.github.io/Gerez-Resume/CertificatePCPro.pdf)
+- [Certified Network Pro TestOut (December 2020)](https://carlosdgerez.github.io/Gerez-Resume/CertificateNetwork.pdf)
 
 `2021`
-- Degree: [Certificate Computer Support](../ComputerSupportCertificate.pdf)
-- [Certified Switching Pro (July 2021)](../CertificateSwitchingPro.pdf)
+- Degree: [Certificate Computer Support](https://carlosdgerez.github.io/Gerez-Resume/ComputerSupportCertificate.pdf)
+- [Certified Switching Pro (July 2021)](https://carlosdgerez.github.io/Gerez-Resume/CertificateSwitchingPro.pdf)
   
 `2024`
 - Degree: [Certificate System Administration](../SystemAdministratorCertificate.pdf))   
