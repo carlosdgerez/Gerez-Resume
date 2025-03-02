@@ -21,6 +21,7 @@ Love to learn something new each day, and the satisfaction of teamwork.
 ## Education
 
 `2019-2024`
+
 __Brigham Young University - Idaho__, Rexburg, ID
 
 -  Bachelor of Science in Applied Technology (July 2024)
@@ -85,14 +86,22 @@ __Other Tools__
 
 ## Certifications
 
-- `2020` Degree: [Certificate Computer Programmer](https://www.michaelsutter.com/ediploma?fn=diplomastatuscheck&key=01000000a2f381e11d60968e7096723cc449e6d5590bb92f75bdbc1245397c50c2990b1773c183443a9eac98777747395283fecc)
-- `2020` Certified PC Pro TestOut ( December 2020)
-- `2020` Certified Network Pro TestOut (December 2020)
-- `2021` Degree: [Certificate Computer Support](https://www.michaelsutter.com/ediploma?fn=diplomastatuscheck&key=020000003105fdc496759660de5484d2f932b7178020a69b8d629b1ac0c244bf1e2a9e5aa8c6901a424b3cb3fedd8a71d75f98faf89bad237008ddf833ff46ace4500a0a)
-- `2021` Certified Switching Pro (July 2021) 
-- `2024` Degree: [Certificate System Administration](https://www.michaelsutter.com/ediploma?fn=diplomastatuscheck&key=02000000c9ec19dd39add2463e2c60f29def1f294e322848d3b02b480bc2a95c975569340a954596580309649867a58cfbcca91c11ddabfd0c8fd995a8770e34882aa2c2)   
+- `2020`
+  
+-  Degree: [Certificate Computer Programmer](https://www.michaelsutter.com/ediploma?fn=diplomastatuscheck&key=01000000a2f381e11d60968e7096723cc449e6d5590bb92f75bdbc1245397c50c2990b1773c183443a9eac98777747395283fecc)
+- `2020`
+- Certified PC Pro TestOut ( December 2020)
+- `2020`
+- Certified Network Pro TestOut (December 2020)
+- `2021`
+- Degree: [Certificate Computer Support](https://www.michaelsutter.com/ediploma?fn=diplomastatuscheck&key=020000003105fdc496759660de5484d2f932b7178020a69b8d629b1ac0c244bf1e2a9e5aa8c6901a424b3cb3fedd8a71d75f98faf89bad237008ddf833ff46ace4500a0a)
+- `2021`
+- Certified Switching Pro (July 2021) 
+- `2024`
+- Degree: [Certificate System Administration](https://www.michaelsutter.com/ediploma?fn=diplomastatuscheck&key=02000000c9ec19dd39add2463e2c60f29def1f294e322848d3b02b480bc2a95c975569340a954596580309649867a58cfbcca91c11ddabfd0c8fd995a8770e34882aa2c2)   
 
-- `2024` Certified CompTIA Security+ SYO-701 (Juli 2024)
+- `2024`
+-  Certified CompTIA Security+ SYO-701 (Juli 2024)
   
 ## REFERENCES
 __Josh Wickern__ 
