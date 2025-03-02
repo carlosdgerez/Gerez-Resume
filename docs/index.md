@@ -98,7 +98,7 @@ __Other Tools__
 `2024`
 - Degree: [Certificate System Administration](../SystemAdministratorCertificate.pdf))   
 -  [Certified CompTIA Security+ SYO-701 (Juli 2024)](../CompTIASecurity+certificate.pdf)
--  [Transcript](CumLaudeTranscript.pdf)
+-  [Transcript](https://carlosdgerez.github.io/Gerez-Resume/CumLaudeTranscript.pdf)
   
 ## REFERENCES
 __Josh Wickern__ 
