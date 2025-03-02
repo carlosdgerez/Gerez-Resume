@@ -97,7 +97,7 @@ __Other Tools__
   
 `2024`
 - Degree: [Certificate System Administration](https://www.michaelsutter.com/ediploma?fn=diplomastatuscheck&key=02000000c9ec19dd39add2463e2c60f29def1f294e322848d3b02b480bc2a95c975569340a954596580309649867a58cfbcca91c11ddabfd0c8fd995a8770e34882aa2c2)   
--  [Certified CompTIA Security+ SYO-701 (Juli 2024)](CompTIASecurity+certificate.pdf)
+-  [Certified CompTIA Security+ SYO-701 (Juli 2024)](../CompTIASecurity+certificate.pdf)
   
 ## REFERENCES
 __Josh Wickern__ 
