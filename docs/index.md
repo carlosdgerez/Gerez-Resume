@@ -92,7 +92,7 @@ __Other Tools__
 - [Certified Network Pro TestOut (December 2020)](https://carlosdgerez.github.io/Gerez-Resume/CertificateNetwork.pdf)
 
 `2021`
-- Degree: [Certificate Computer Support](https://carlosdgerez.github.io/Gerez-Resume/ComputerSupportCertificate.pdf)
+-  [Degree: Certificate Computer Support](https://carlosdgerez.github.io/Gerez-Resume/ComputerSupportCertificate.pdf)
 - [Certified Switching Pro (July 2021)](https://carlosdgerez.github.io/Gerez-Resume/CertificateSwitchingPro.pdf)
   
 `2024`
