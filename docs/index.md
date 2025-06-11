@@ -24,7 +24,7 @@ Love to learn something new each day, and the satisfaction of teamwork.
 
 __Brigham Young University - Idaho__, Rexburg, ID
 
--  Bachelor of Science in Applied Technology (July 2024)
+-  [Bachelor of Science in Applied Technology (July 2024)](https://carlosdgerez.github.io/Gerez-Resume/BachelorDegree.pdf)
 -  Magna Cum Laude.
 -  3.95 GPA
 
@@ -87,7 +87,7 @@ __Other Tools__
 ## Certifications
 
  `2020`  
--  Degree: [Certificate Computer Programmer](https://carlosdgerez.github.io/Gerez-Resume/ComputerProgrammingCertificate.pdf)
+-   [Degree: Certificate Computer Programmer](https://carlosdgerez.github.io/Gerez-Resume/ComputerProgrammingCertificate.pdf)
 - [Certified PC Pro TestOut ( December 2020)](https://carlosdgerez.github.io/Gerez-Resume/CertificatePCPro.pdf)
 - [Certified Network Pro TestOut (December 2020)](https://carlosdgerez.github.io/Gerez-Resume/CertificateNetwork.pdf)
 
@@ -96,7 +96,7 @@ __Other Tools__
 - [Certified Switching Pro (July 2021)](https://carlosdgerez.github.io/Gerez-Resume/CertificateSwitchingPro.pdf)
   
 `2024`
-- Degree: [Certificate System Administration](https://carlosdgerez.github.io/Gerez-Resume/SystemAdministratorCertificate.pdf)  
+-  [Degree: Certificate System Administration](https://carlosdgerez.github.io/Gerez-Resume/SystemAdministratorCertificate.pdf)  
 -  [Certified CompTIA Security+ SYO-701 (Juli 2024)](https://carlosdgerez.github.io/Gerez-Resume/CompTIASecurity+certificate.pdf)
 -  [Transcript](https://carlosdgerez.github.io/Gerez-Resume/CumLaudeTranscript.pdf)
   
