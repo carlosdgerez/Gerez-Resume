@@ -7,7 +7,7 @@ Skillful Data Science enthusiastic learner.
 
 <div id="webaddress">
 <a href="mailto:ger19005@byui.edu">E-mail</a>
-| <a href="https://byuidatascience.github.io/">Data Science Program</a>
+| <a href="https://carlosdgerez.github.io/portfolio/">Portfolio</a>
 | <a href="https://www.linkedin.com/in/carlos-gerez-solid-state928b98a4/">LinkedIn</a>
 | <a href="https://github.com/carlosdgerez?tab=repositories">GitHub</a>
 </div>
