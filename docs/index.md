@@ -26,7 +26,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 -  [Bachelor of Science in Applied Technology (July 2024)](https://carlosdgerez.github.io/Gerez-Resume/BachelorDegree.pdf)
 -  Magna Cum Laude.
--  3.95 GPA
+-  [ 3.95 GPA](https://carlosdgerez.github.io/Gerez-Resume/CumLaudeTranscript.pdf)
 
 
 
@@ -99,6 +99,7 @@ __Other Tools__
 -  [Degree: Certificate System Administration](https://carlosdgerez.github.io/Gerez-Resume/SystemAdministratorCertificate.pdf)  
 -  [Certified CompTIA Security+ SYO-701 (Juli 2024)](https://carlosdgerez.github.io/Gerez-Resume/CompTIASecurity+certificate.pdf)
 -  [Transcript](https://carlosdgerez.github.io/Gerez-Resume/CumLaudeTranscript.pdf)
+- [Norwegian Certification](https://carlosdgerez.github.io/Gerez-Resume/norskCert.pdf)
   
 ## REFERENCES
 __Josh Wickern__ 
