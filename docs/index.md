@@ -3,7 +3,7 @@ layout: cv
 title: Carlos Gerez's CV
 ---
 # Carlos Gerez
-Skillful Data Science enthusiastic learner.
+System Administration and DevOps Graduate focused on Cloud, Automation and Security 
 
 <div id="webaddress">
 <a href="mailto:ger19005@byui.edu">E-mail</a>
